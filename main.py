@@ -5,7 +5,6 @@ from handlers.info import info_router
 from handlers.picture import picture_router
 from handlers.shop import shop_router
 from bot import bot, dp, scheduler
-
 from handlers.questions import questions_router
 
 from handlers.schedjular import remide_me, scheduler_router
